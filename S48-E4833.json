@@ -1,0 +1,3360 @@
+{
+    "images": [
+        {
+            "filename": "S48-E4833_00080.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        391.85,
+                        111.4,
+                        493.35,
+                        230.8
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "356.5"
+                    }
+                },
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        387.98,
+                        0.14,
+                        640,
+                        283.6
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "cardinal",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        160.02,
+                        91.69,
+                        273.14,
+                        209.48
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "7.200000000000003"
+                    }
+                },
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        210.45,
+                        360
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "cardinal",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00152.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        242.7,
+                        66.48,
+                        340.15,
+                        230.79
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "356.6"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00154.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        72.69,
+                        126.36,
+                        94.51,
+                        171.79
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "352.9"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        271.51,
+                        218.88,
+                        296.87,
+                        263.69
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "350.19999999999993"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        222.77,
+                        146.11,
+                        238.89,
+                        176.46
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "342.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        175.23,
+                        233.8,
+                        200.59,
+                        290.74
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "342.80000000000007"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 4,
+                    "type": "bounding_box",
+                    "polygon": [
+                        546.14,
+                        253.48,
+                        583.08,
+                        307.8
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "359.1999999999999"
+                    }
+                },
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 5,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        360
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "oblique",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 6,
+                    "type": "bounding_box",
+                    "polygon": [
+                        353.74,
+                        201.53,
+                        375.21,
+                        241.71
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "350.8"
+                    }
+                },
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 7,
+                    "type": "bounding_box",
+                    "polygon": [
+                        282.11,
+                        68.79,
+                        363.51,
+                        89.41
+                    ],
+                    "attributes": {
+                        "multi-letter": "word",
+                        "case": "uppercase",
+                        "single-letter": "other",
+                        "noun": "False",
+                        "content": "STORE",
+                        "visibility": "full-view",
+                        "rotation": "2.799999999999997"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 8,
+                    "type": "bounding_box",
+                    "polygon": [
+                        480.51,
+                        237.48,
+                        512.18,
+                        291.8
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "310.8"
+                    }
+                },
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 9,
+                    "type": "bounding_box",
+                    "polygon": [
+                        134.8,
+                        59.11,
+                        273.14,
+                        80.24
+                    ],
+                    "attributes": {
+                        "multi-letter": "word",
+                        "case": "uppercase",
+                        "single-letter": "other",
+                        "noun": "True",
+                        "content": "HOOPER'S",
+                        "visibility": "full-view",
+                        "rotation": "3.9000000000000057"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00248.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        171.65,
+                        50.81,
+                        278.49,
+                        210.34
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "27.20000000000003"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00262.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        208.97,
+                        35.83,
+                        333.32,
+                        218.5
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "341.5"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00268.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        213.4,
+                        65.7,
+                        389.6,
+                        256.4
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00374.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        59.76,
+                        106.99,
+                        132.75,
+                        200.6
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        476.6,
+                        53.7,
+                        564.9,
+                        167.18
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "2.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        253.7,
+                        99.55,
+                        342.4,
+                        182
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00452.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        65.6,
+                        76.32,
+                        218.09,
+                        255.79
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "354.3999999999999"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        399.85,
+                        137.69,
+                        540.41,
+                        290.38
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "34.40000000000002"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00472.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        210.78,
+                        66.9,
+                        393.8,
+                        245.7
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00579.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        174.2,
+                        124.54,
+                        277.09,
+                        220.77
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "352.9"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        393.12,
+                        152.79,
+                        499.05,
+                        267.71
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "352.9"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00593.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        337.44,
+                        43.65,
+                        384.68,
+                        118.2
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "other",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "356.20000000000005"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00667.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        284.66,
+                        54.33,
+                        391.57,
+                        218.9
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "full-view",
+                        "rotation": "355.8"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00669.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        286.6,
+                        82.01,
+                        439.1,
+                        263.71
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "358.1"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00690.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        421.96,
+                        179.62,
+                        487.91,
+                        316.43
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "30.40000000000002"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        320.47,
+                        35.88,
+                        383.53,
+                        143.87
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "351.2"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        80.42,
+                        224.26,
+                        128.88,
+                        311.46
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "325.2"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00730.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        82.85,
+                        183.16,
+                        127.18,
+                        267.52
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "other",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "353.3"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        208.58,
+                        112.91,
+                        263.91,
+                        196.43
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "354.2"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        560.91,
+                        176.03,
+                        642.89,
+                        283.38
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "truncated",
+                        "rotation": "21.500000000000043"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        285.95,
+                        157.05,
+                        365.27,
+                        256.8
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "8.200000000000017"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00737.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        218.9,
+                        93.24,
+                        318.8,
+                        203.3
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "357.50000000000006"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        167.62,
+                        24.41,
+                        225.68,
+                        124.9
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "occluded",
+                        "rotation": "2.6000000000000227"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00769.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        203.8,
+                        75.27,
+                        435,
+                        360
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "truncated",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00810.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        228.06,
+                        49.89,
+                        412.87,
+                        293.41
+                    ],
+                    "attributes": {
+                        "multi-letter": "other",
+                        "case": "uppercase",
+                        "single-letter": "y",
+                        "noun": "False",
+                        "content": "Y",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00811.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        255.43,
+                        72.98,
+                        386.13,
+                        226.61
+                    ],
+                    "attributes": {
+                        "multi-letter": "other",
+                        "case": "uppercase",
+                        "single-letter": "y",
+                        "noun": "False",
+                        "content": "Y",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00841.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        328.01,
+                        78.02,
+                        405.59,
+                        168.52
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "7.200000000000003"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        66.14,
+                        16.51,
+                        132.63,
+                        117.72
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "2.5"
+                    }
+                },
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        69.7,
+                        180.28,
+                        91,
+                        232.63
+                    ],
+                    "attributes": {
+                        "multi-letter": "other",
+                        "case": "uppercase",
+                        "single-letter": "t",
+                        "noun": "False",
+                        "content": "T",
+                        "visibility": "full-view",
+                        "rotation": "5.500000000000028"
+                    }
+                },
+                {
+                    "name": "WORD",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        65.49,
+                        235.02,
+                        133.52,
+                        298.84
+                    ],
+                    "attributes": {
+                        "multi-letter": "nonword-pronounceable",
+                        "case": "uppercase",
+                        "single-letter": "other",
+                        "noun": "False",
+                        "content": "MO",
+                        "visibility": "full-view",
+                        "rotation": "2.9000000000000057"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00849.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        453.06,
+                        200.1,
+                        497.29,
+                        256.98
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "upward",
+                        "visibility": "occluded",
+                        "rotation": "7.299999999999997"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        365.19,
+                        183.71,
+                        428.55,
+                        283.31
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "upward",
+                        "visibility": "full-view",
+                        "rotation": "9.199999999999989"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        98.41,
+                        145.5,
+                        179.69,
+                        263.88
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "upward",
+                        "visibility": "full-view",
+                        "rotation": "7.6000000000000085"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00853.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        471.73,
+                        0,
+                        590.97,
+                        141.01
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "downward",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        196.05,
+                        -2.7,
+                        296.71,
+                        176.5
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "truncated",
+                        "rotation": "358.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00855.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        386.79,
+                        24.34,
+                        435.45,
+                        150.91
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "8.700000000000003"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        108.54,
+                        46.5,
+                        146.69,
+                        138.57
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "3.2000000000000597"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00857.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        487.84,
+                        35.3,
+                        524.16,
+                        86.95
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "3.3000000000000114"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        237.41,
+                        63.14,
+                        267.21,
+                        106.62
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "359.9"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00860.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        149.19,
+                        163.73,
+                        255.04,
+                        288.87
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Asian",
+                        "age": "child",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "279.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00862.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        159.06,
+                        134.57,
+                        273.38,
+                        262.74
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "occluded",
+                        "rotation": "327.79999999999995"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00886.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        190.63,
+                        82.17,
+                        320.13,
+                        274.27
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "333.2"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00894.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        444.87,
+                        127.67,
+                        501,
+                        187.1
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        123.2,
+                        83.09,
+                        213.6,
+                        165.2
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        427.3,
+                        210.77,
+                        530.4,
+                        309.5
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        256.62,
+                        36.05,
+                        323.51,
+                        128.59
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "337.8"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 4,
+                    "type": "bounding_box",
+                    "polygon": [
+                        62.95,
+                        223.97,
+                        164.76,
+                        313.13
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "357.7"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00942.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        332.74,
+                        220.41,
+                        396.4,
+                        286.54
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "28.199999999999974"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        243.46,
+                        42,
+                        296.84,
+                        119.42
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00949.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        213.07,
+                        47.4,
+                        266.63,
+                        130.04
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "343.5"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_00970.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        471.59,
+                        195.39,
+                        543.13,
+                        278.46
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "1.9999999999999858"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        90.2,
+                        172.85,
+                        170.49,
+                        271.15
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "3.5000000000000426"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        305.06,
+                        40.4,
+                        359.55,
+                        119.47
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "10.999999999999986"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        213.88,
+                        275.6,
+                        282.12,
+                        354.1
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "356.7"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 4,
+                    "type": "bounding_box",
+                    "polygon": [
+                        271.23,
+                        173.79,
+                        355.52,
+                        265.89
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "occluded",
+                        "rotation": "357.69999999999993"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 5,
+                    "type": "bounding_box",
+                    "polygon": [
+                        338.89,
+                        212.54,
+                        444.54,
+                        330.9
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "358.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01014.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        89.4,
+                        277.36
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "oblique",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        405,
+                        198.66,
+                        496.3,
+                        296.3
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        187.14,
+                        110.29,
+                        299.77,
+                        237.78
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "327.4"
+                    }
+                },
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        139.62,
+                        0,
+                        633.12,
+                        288.52
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "oblique",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01017.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        126.22,
+                        0,
+                        640,
+                        296.55
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "oblique",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        70.66,
+                        287.81
+                    ],
+                    "attributes": {
+                        "representation": "real",
+                        "orientation": "oblique",
+                        "visibility": "occluded-and-truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        246.7,
+                        47.93,
+                        402.3,
+                        234.72
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "355.8999999999999"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01023.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        202.5,
+                        118.64,
+                        370.35,
+                        288.18
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "8.199999999999989"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01045.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        222.92,
+                        39.9,
+                        307.7,
+                        164.91
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "occluded",
+                        "rotation": "5.7000000000000455"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        411.4,
+                        73.65,
+                        504.13,
+                        232.43
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "full-view",
+                        "rotation": "356.20000000000005"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        165.25,
+                        109.4,
+                        240.11,
+                        254.7
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "downward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01047.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        155.28,
+                        -3.04,
+                        449.93,
+                        358.36
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "truncated",
+                        "rotation": "357.1"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01049.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        191.2,
+                        57.06,
+                        278.8,
+                        215.24
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "adult",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "358.3"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01055.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        139.97,
+                        84.71,
+                        186.21,
+                        146.4
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "5.3999999999999915"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        591.73,
+                        0,
+                        640,
+                        157.82
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "truncated",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        445.55,
+                        52.45,
+                        494.5,
+                        136.53
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "5.600000000000051"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01083.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        184.82,
+                        123.99,
+                        291.83,
+                        261.97
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "354.9"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01094.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        328.89,
+                        77.97,
+                        455.88,
+                        277.09
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "353.4"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01147.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        246.07,
+                        70.02,
+                        335.52,
+                        163.92
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "316.5"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01182.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        270,
+                        82.5,
+                        372.4,
+                        198.8
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01246.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "NUMBER",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        40.65,
+                        83.3,
+                        138.48,
+                        177.31
+                    ],
+                    "attributes": {
+                        "single-digit": "other",
+                        "multi-digit": "True",
+                        "representation": "True",
+                        "content": "18 cookies",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01264.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "NUMBER",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        188.55,
+                        47.38,
+                        462.98,
+                        314.97
+                    ],
+                    "attributes": {
+                        "single-digit": "other",
+                        "multi-digit": "True",
+                        "representation": "False",
+                        "content": "\"18\"",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01271.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        212.98,
+                        101.66,
+                        327.32,
+                        229.78
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "330.5"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01292.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        258.14,
+                        118.64,
+                        350.41,
+                        224.6
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "1.9000000000000057"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01307.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        263.89,
+                        105.86,
+                        316.5,
+                        163.2
+                    ],
+                    "attributes": {
+                        "species": "other",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.5"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        458.1,
+                        129.54,
+                        522.3,
+                        197.6
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        166.42,
+                        91.21,
+                        219.03,
+                        173.88
+                    ],
+                    "attributes": {
+                        "species": "other",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "354.1"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01336.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        279.12,
+                        117.9,
+                        380.78,
+                        216.8
+                    ],
+                    "attributes": {
+                        "species": "other",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01382.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        505.37,
+                        44.32,
+                        563.84,
+                        99.73
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        171.2,
+                        101.36,
+                        286.82,
+                        232.49
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "318.69999999999993"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01449.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        73.22,
+                        51.66,
+                        106.97,
+                        82.87
+                    ],
+                    "attributes": {
+                        "species": "animal",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        440.73,
+                        102.93,
+                        468.12,
+                        130.64
+                    ],
+                    "attributes": {
+                        "species": "animal",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 2,
+                    "type": "bounding_box",
+                    "polygon": [
+                        243.6,
+                        236.37,
+                        266.53,
+                        256.4
+                    ],
+                    "attributes": {
+                        "species": "animal",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "side-profile",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 3,
+                    "type": "bounding_box",
+                    "polygon": [
+                        244.24,
+                        133.5,
+                        275.76,
+                        154.52
+                    ],
+                    "attributes": {
+                        "species": "animal",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 4,
+                    "type": "bounding_box",
+                    "polygon": [
+                        527.92,
+                        95.61,
+                        559.25,
+                        124.27
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "caricature",
+                        "race/ethnicity": "Black/African American",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 5,
+                    "type": "bounding_box",
+                    "polygon": [
+                        305.16,
+                        107.2,
+                        336.49,
+                        135.86
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 6,
+                    "type": "bounding_box",
+                    "polygon": [
+                        154.54,
+                        62.28,
+                        185.87,
+                        90.94
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "caricature",
+                        "race/ethnicity": "white",
+                        "age": "child",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01472.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        236.68,
+                        55.56,
+                        411.96,
+                        253.82
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "30.80000000000001"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01482.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        235,
+                        268.53
+                    ],
+                    "attributes": {
+                        "representation": "caricature",
+                        "orientation": "cardinal",
+                        "visibility": "truncated",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01490.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        284.68,
+                        37.7,
+                        335.96,
+                        119.2
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "white",
+                        "age": "adult",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01493.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "PLACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        0,
+                        0,
+                        391.05,
+                        337.1
+                    ],
+                    "attributes": {
+                        "representation": "caricature",
+                        "orientation": "oblique",
+                        "visibility": "truncated",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01565.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        460.2,
+                        125.2,
+                        482.45,
+                        146.56
+                    ],
+                    "attributes": {
+                        "species": "animal",
+                        "representation": "caricature",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        272.59,
+                        85.1,
+                        327.08,
+                        166.44
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "other",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "327.69999999999993"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01569.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        449.97,
+                        218.85,
+                        513.03,
+                        283.5
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        165.2,
+                        65.4,
+                        259.4,
+                        180.5
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        },
+        {
+            "filename": "S48-E4833_01691.png",
+            "source": "Datumaro",
+            "size": {
+                "width": 360,
+                "height": 640
+            },
+            "annotations": [
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 0,
+                    "type": "bounding_box",
+                    "polygon": [
+                        222.6,
+                        93.54,
+                        323.9,
+                        212.34
+                    ],
+                    "attributes": {
+                        "species": "puppet",
+                        "representation": "real",
+                        "race/ethnicity": "other",
+                        "age": "other",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "full-view",
+                        "rotation": "358.69999999999993"
+                    }
+                },
+                {
+                    "name": "FACE",
+                    "deleted": false,
+                    "verified": false,
+                    "occluded": false,
+                    "id": 1,
+                    "type": "bounding_box",
+                    "polygon": [
+                        181.5,
+                        3.8,
+                        245.7,
+                        105.8
+                    ],
+                    "attributes": {
+                        "species": "human",
+                        "representation": "real",
+                        "race/ethnicity": "Black/African American",
+                        "age": "adult",
+                        "orientation": "front-face",
+                        "angle": "forward",
+                        "visibility": "occluded",
+                        "rotation": "0.0"
+                    }
+                }
+            ]
+        }
+    ]
+}
