@@ -23,9 +23,6 @@ def xml_to_dict(element):
             node[child.tag] = child_dict    
     return node
 
-def dict_to_json(data):
-    return json.dumps(data, indent=4)
-
 def process_annotation_object(obj):
     object = {}            
     object['name'] = obj['name']['text']                         
@@ -46,7 +43,6 @@ def process_annotation_object(obj):
         key, value = attribute.split('=')
         key = key[key.rfind(' ') + 1:].lower()
         object['attributes'][key] = value
-
     return object
 
 def prune_dict(big_dict):
@@ -54,8 +50,8 @@ def prune_dict(big_dict):
     image_annotations['filename'] = big_dict['filename']['text']
     image_annotations['source'] = big_dict['source']['sourceAnnotation']['text']
     image_annotations['size'] = {}
-    image_annotations['size']['width'] = int(big_dict['imagesize']['nrows']['text'])
-    image_annotations['size']['height'] = int(big_dict['imagesize']['ncols']['text'])    
+    image_annotations['size']['height'] = int(big_dict['imagesize']['nrows']['text'])
+    image_annotations['size']['width'] = int(big_dict['imagesize']['ncols']['text'])    
     if type(big_dict['object']) is list:
         image_annotations['annotations'] = []
         for obj in big_dict['object']:            
@@ -73,9 +69,6 @@ def driver(export_dir, save_dir='annotations.json'):
             aggregated_annotations['images'].append(prune_dict(xml_to_dict(parse_xml(os.path.join(root, file)))))
     with open(save_dir, 'w', encoding='utf-8') as f:
         json.dump(aggregated_annotations, f)
-
     print(f'Annotations from {len(aggregated_annotations["images"])} images transformed and saved to {save_dir}.')
 
-driver('S48-E4833_Rosita-And-Elmo-Teach-Yoga')
-
-        
+driver('S48-E4833_Rosita-And-Elmo-Teach-Yoga')      
